@@ -4,8 +4,8 @@
 
 Leave a comment on this [issue](https://github.com/ciandt-taurus-platform/ciandt-taurus-platform.github.io/issues/1) with your organization e-mail.
 It's mandatory that:
-1) [Your github user should be attached to your organization e-mail](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/adding-an-email-address-to-your-github-account)
-2) [Your github user should have two-factor authentication enabled](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) 
+1. [Your github user should be attached to your organization e-mail](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/adding-an-email-address-to-your-github-account)
+2. [Your github user should have two-factor authentication enabled](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) 
 
 
 ## What is a platform team
