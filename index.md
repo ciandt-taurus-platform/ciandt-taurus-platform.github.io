@@ -15,7 +15,7 @@ It's mandatory that:
 ### Definition
 An Internal Platform team is an evolution of the standard definition of a DevOps team.  It derives from the Team topologies concept and it is mainly responsible for providing a compelling internal product to accelerate delivery by Stream-aligned teams (Stream-aligned a.k.a teams that deliver directly to the business)
 
-*"Not every platform team is automatically successful, but the successful ones treat their platform as a product. They strive to create a compelling value proposition for application teams that is easier and more cost-effective than building their own solutions." (Puppet State of DevOps 2021)
+*"Not every platform team is automatically successful, but the successful ones treat their platform as a product. They strive to create a compelling value proposition for application teams that is easier and more cost-effective than building their own solutions."* (Puppet State of DevOps 2021)
 
 ### Objective
 The main objective of a platform team is to improve the four most important DevOps metrics:
