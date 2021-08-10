@@ -7,6 +7,9 @@ It's mandatory that:
 1. [Your github user should be attached to your organization e-mail](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/adding-an-email-address-to-your-github-account)
 2. [Your github user should have two-factor authentication enabled](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) 
 
+## Source code
+All projects are being placed [here](https://github.com/orgs/ciandt-taurus-platform/)
+
 
 ## What is a platform team
 
